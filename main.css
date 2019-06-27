@@ -8,8 +8,8 @@
 
 @media (min-width: 992px) {
     .column {
-        margin: 10px
+        margin: 10px;
         width: 30%;
     }
 }
-}
+
